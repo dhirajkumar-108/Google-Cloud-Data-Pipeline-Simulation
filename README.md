@@ -75,8 +75,7 @@ gcp-data-pipeline/
 ├── config/
 │   └── config.py                      # Project config
 │
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 ---
